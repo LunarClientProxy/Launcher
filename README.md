@@ -1,2 +1,4 @@
-# Launcher
-The launcher to launch Lunar Client without using official launcher
+# 🎄 Lunar Proxy Launcher
+
+This launcher coded at C# using framework Windows Forms.
+For developing using Visual Studio 2022
